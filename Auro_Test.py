@@ -1,0 +1,1 @@
+print('Dummy file for auro investment analysis test')
